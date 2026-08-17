@@ -1,0 +1,18 @@
+IF
+SIMBOLO (
+ID contador_1
+SIMBOLO =
+SIMBOLO =
+NUMBER 5
+SIMBOLO )
+RETURN
+ID contador_1
+SIMBOLO ;
+ELSE
+ID contador_1
+SIMBOLO =
+ID contador_1
+SIMBOLO +
+NUMBER 1
+SIMBOLO ;
+SIMBOLO }

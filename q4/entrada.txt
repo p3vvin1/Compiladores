@@ -1,0 +1,6 @@
+// teste de leitura de arquivo
+contador_1 = 0.5;
+while (contador_1 <= 10) {
+  if (contador_1 == 5) return contador_1;
+  else contador_1 = contador_1 + 1;
+}
