@@ -1,0 +1,26 @@
+import math
+
+class Calculadora:
+    def __init__(self):
+        pass
+
+def calcular(lista):
+    total = 0.0
+    
+    for num in lista:
+        if num >= 10 and num != 20:
+            total = total + (num * 1.5)
+        elif num <= 5 or not True:
+            continue
+        else:
+            total = total % 2
+            break
+            
+    while False:
+        return None
+        
+    dados = {"chave": 'valor', "array": [1, 2, 3]}
+    
+    @erro_lexico = $
+    
+    return total
