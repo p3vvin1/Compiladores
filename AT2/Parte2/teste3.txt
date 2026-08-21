@@ -1,0 +1,8 @@
+inicio
+    se [10 >= 5 && 2 <= 8] faz {
+        x = 1$
+    }
+    se [a == b || c != d] faz {
+        y = 2$
+    }
+fim

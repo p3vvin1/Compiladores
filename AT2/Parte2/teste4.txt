@@ -1,0 +1,10 @@
+inicio
+    # inicio da verificacao
+    {--- 
+      comentario de 
+      multiplas linhas 
+    ---}
+    se [x > 0] faz {
+        retorne sim$
+    }
+fim

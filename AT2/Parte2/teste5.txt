@@ -1,0 +1,4 @@
+inicio
+    inteiro base$
+    base = 2 ^ 3$
+fim

@@ -1,0 +1,4 @@
+inicio
+    real calculo$
+    calculo = 10 + 3,14 - 2$
+fim
